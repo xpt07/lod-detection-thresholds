@@ -6,11 +6,6 @@ Open the notebook and run it.
 
 
 
-\## Data
-
-Place the two raw files in the same directory as the notebook:
-
-\- 'Generic\_Data.xlsx'
-
-\- 'Personal\_Data.xlsx'
-
+Place the two raw files in 'data/raw/':
+- Generic_Data.xlsx
+- Personal_Data.xlsx
